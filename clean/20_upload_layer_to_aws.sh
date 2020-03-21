@@ -3,7 +3,7 @@
 source config.sh
 
 echo
-echo -e "\tUploading ${LAYER_NAME%.zip} wiht description $DESCRIPTION, compatible runtimes: $RUNTIMES"
+echo -e "\tUploading ${LAYER_NAME%.zip} wiht description:\n\t$DESCRIPTION"
 echo -e "\tThe layer contains: $PACKAGES"
 echo
 
