@@ -7,6 +7,13 @@ source /var/task/config.sh
 
 rm -rf python/
 rm -f $LAYER_NAME
+
 pip install $PACKAGES --no-deps -t python/lib/python3.7/site-packages/
-zip -rq $LAYER_NAME python
+
+find python/ -name "*.so" | xargs strip
+find . -type d -name "tests" -exec rm -rf {} +
+find . -type d -name "__pycache__" -exec rm -rf {} +
+
+zip -r -9 -q $LAYER_NAME python
+
 rm -rf python/

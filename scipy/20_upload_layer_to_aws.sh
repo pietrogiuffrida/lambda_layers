@@ -19,7 +19,6 @@ if [ $? -eq 0 ]
 then
 echo
 echo -e "\tOK"
-cat upload.log |jq .LayerArn
 else
 echo -e "\tThere was an error..."
 fi

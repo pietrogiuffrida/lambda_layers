@@ -1,0 +1,15 @@
+{
+    "Content": {
+        "Location": "https://awslambda-eu-west-1-layers.s3.eu-west-1.amazonaws.com/snapshots/667992618030/python37_numpy1182-fdd51990-9f6f-43a7-86cb-03c07215e555?versionId=e9gvJ6QfkK00GYKUfFbwCIXqIDufSZIL&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEEkaCWV1LXdlc3QtMSJHMEUCIQDyqfz42L6ppmLXUHlpLw0jWgMnaBAqKz20N5VwNsYx9wIgOvD%2B%2FYiNm5pDX0hGlGYJ4V%2F3yRmSSRj56nQPLqM6rUAqtAMIQRACGgw5NTQzNjkwODI1MTEiDBvtbPbp%2FClz2ZiULCqRA2J7%2BxFjaFM%2BMkdeWJoUcdwcu6iA9RBGW7GAlCc7QW8WztxtmBa%2FqkS9AOGz5Ljv64fTNjQyvGa%2F9LXjiL%2BDpZkJzWxZTVcT8mwflN%2BZU%2B6wyjh9FVOxzNOFTYmu0FsgKvNYBsMes69MffTFY8rlPEmESK94qvVVXlCOGfEVO2TiLV9r%2Frx4WyPa%2BbpxTENDMZUNYsl43Y%2BhFPGCEcVCUhjE3A556C3Z5cuykrNDnZUrQxRrKSXTv2hX32FDrqbYpiPdp89I4uvQzhuNI4Fboxci2e4tffjjQqVH%2BwQARNiZxcENVmMK2L19eVMUWuYDVFez%2Bw6ilo8eYkHto02MogJuxfkXjF%2Fvzs0%2FGCAeIcKpj6TTnwKMFVdoF%2FYNR%2BJgjPSxAB9KM0BUz3XGjgOxLLSRerdDrWhSPqm79FU4MfO8QP%2FKllLpVwP5dy7kZcAv3s%2Fj84JtEbJiBs1M8I9XyZPXg4zD5Ttxndhx8xgPWCtDElFTFuT8GSirvN%2BAcyT4q%2FW9Y3Csaa6OhWCEvOZt9GbZMNz34fMFOusBAvDnbSpERuNHyHKEz7JxdnbcqqgsuyWkIfVnxO63PHOrbu0buIt2HhOKHX1U87WKAqQGCIGZCPZiNClk0KHonxfcJ1x5%2FLUXZb%2Fjs22j4meTxoWdhDhqsTX7G%2FjaKeCFZpBVWKu702JlCj4UgxFabdX04QKnI2XcSw%2BoSj6aIYa%2BKTRU46x2DDmHnDhUu6it08GXaKInw68t%2B%2FOa4ABmqXDFGjfISutkCA7mvyFS9PrG5sUS%2Fy9PJA02BXo5vF7uoo1EQduPLTDSLNoacLmUV%2BoQ3KQFBdkQG0b94Im5ur8h9I0Q9EMtpUktuw%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20200323T095405Z&X-Amz-SignedHeaders=host&X-Amz-Expires=600&X-Amz-Credential=ASIA54NGUQSH7AWBCMG3%2F20200323%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Signature=f9c5b265422ca515a56f4730ab6237df5684eedefcfbb6e193cbdadc30541894",
+        "CodeSha256": "mbAvy0Smux14Hj+O1rMOl4/WMNAGcr9Z1jQh7NcrF9Q=",
+        "CodeSize": 12036778
+    },
+    "LayerArn": "arn:aws:lambda:eu-west-1:667992618030:layer:python37_numpy1182",
+    "LayerVersionArn": "arn:aws:lambda:eu-west-1:667992618030:layer:python37_numpy1182:2",
+    "Description": "numpy==1.18.2 for python3.7",
+    "CreatedDate": "2020-03-23T09:54:11.631+0000",
+    "Version": 2,
+    "CompatibleRuntimes": [
+        "python3.7"
+    ]
+}
