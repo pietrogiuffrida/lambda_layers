@@ -1,0 +1,5 @@
+sam init
+sam build
+sam local invoke ModelOneFunction -e events/event.json
+sam local start-api
+sam deploy --guided
