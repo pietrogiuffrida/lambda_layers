@@ -1,0 +1,10 @@
+version = 0.1
+[default]
+[default.deploy]
+[default.deploy.parameters]
+stack_name = "model-one"
+s3_bucket = "aws-sam-cli-managed-default-samclisourcebucket-2hs2vvxyqghf"
+s3_prefix = "model-one"
+region = "eu-west-1"
+capabilities = "CAPABILITY_IAM"
+
