@@ -1,5 +1,5 @@
 {
-  "body": "{\"input_data\": [0,1,2,3]}",
+  "body": "{\"message\": \"hello world\"}",
   "resource": "/{proxy+}",
   "path": "/path/to/resource",
   "httpMethod": "POST",
